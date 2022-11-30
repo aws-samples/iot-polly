@@ -1,11 +1,7 @@
 ## Use Amazon Polly to create voice messages from your IoT messages
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+this repository is the source code that supports the blog
+"Use Amazon Polly to create voice messages from your IoT messages"
 
 ## Security
 
