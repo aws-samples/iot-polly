@@ -1,4 +1,4 @@
-## My Project
+## Use Amazon Polly to create voice messages from your IoT messages
 
 TODO: Fill this README out!
 
