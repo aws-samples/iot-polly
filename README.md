@@ -1,7 +1,7 @@
 ## Use Amazon Polly to create voice messages from your IoT messages
 
 this repository is the source code that supports the blog
-"Use Amazon Polly to create voice messages from your IoT messages"
+"Convert Messages From IoT Devices to Voice Commands Using AWS IoT Core and Amazon Polly"
 
 ## Security
 
